@@ -12,3 +12,5 @@ Root Mean Squared Logarithmic Error (RMSLE) as accuracy metric:
 - Lowest RMSLE: 0.08
 
 &rarr; **Overall RMSLE: 0.65**
+
+**Note:** Outputs from the section *3 Model Implementation and Prediction* can be found in the *Plots* folder
